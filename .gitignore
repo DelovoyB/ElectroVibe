@@ -5,3 +5,4 @@ venv/
 .vscode/
 media/
 db.sqlite3
+Template Main/
